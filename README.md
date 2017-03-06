@@ -14,10 +14,7 @@
 - echarts _一款丰富的图表库_
 - webpack、ES6、Babel、Stylus...
 
-# 演示
 
-<div align=center style="margin-top:30px">此项目为PC端数据可视化，请在电脑端查看</div>
-<div align=center><a href="https://flsfls.github.io/datavue" target=_blank>在线演示戳我</a></div>
 
 
 
